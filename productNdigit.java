@@ -7,6 +7,7 @@ public class productNdigit {
         n = Math.abs(n);
         int product = 1;
         if (n == 0) {
+            product = 0;
 
         }
     }
