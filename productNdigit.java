@@ -8,6 +8,11 @@ public class productNdigit {
         int product = 1;
         if (n == 0) {
             product = 0;
+        } 
+        else {
+            while (n > 0){
+                
+            }
 
         }
     }
